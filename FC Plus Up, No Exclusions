@@ -1,0 +1,55 @@
+<style>
+	#promodrawer {
+		width:100%;
+		height:100%;
+		background-color:#000;
+		color:#FFFFFF;
+		font-family: "Helvetica Neue", Helvetica,Arial,sans-serif;
+		font-size: 12px;
+		text-align:center;
+		position:relative;
+	}
+	#promodrawer-inner-wrapper { 
+		width:98%;
+		position:absolute;
+		top:50%;
+		left:50%;
+		transform:translate(-50%,-50%);
+		-webkit-transform:translate(-50%,-50%);
+		-moz-transform:translate(-50%,-50%);
+	}
+	#promodrawer-discount-details, 
+	#promodrawer-percent-off, 
+	#promodrawer-discount-type {		
+		color:#FFFFFF;
+		font-size:1.8em;
+		font-weight: 700;
+		line-height:1.2;
+		text-transform: uppercase;
+		letter-spacing: 0px;
+	}
+	#promodrawer-inclusion {
+		font-size: .9em;
+		color: #b18f43;
+		line-height:1;
+		padding-top: 10px;
+	}
+	#promodrawer-exclusion {
+		font-size: .7em;
+		color: #fff;
+		line-height:1;
+		padding-top: 10px;
+		margin-bottom: -5px;
+	}	
+</style>
+<div id="promodrawer">
+	<div id="promodrawer-inner-wrapper">
+		<div id="promodrawer-discount-details">rabais<br/>supplémentaire de</div>
+		<div id="promodrawer-percent-off">10 % SUR TOUT</div>
+		<div id="promodrawer-inclusion">En ligne seulement. Code <b>GAPMORE</b></div>
+		<div id="promodrawer-exclusion">
+			Non valable sur les cartes-cadeaux.<br/>
+			Peut être jumelée à d’autres offres.
+		</div>
+	</div>
+</div>

@@ -1,0 +1,62 @@
+<style>
+    .promodrawer_cont3 {
+        width:100%;
+        height:100%;
+        background-color:#122344;
+        color:#FFFFFF;
+        font-family: Helvetica,Arial,Roboto,sans-serif;
+        position:relative;
+    }
+    .promodrawer_cont3_wrapper { 
+        width:98%;
+        position:absolute;
+        top:50%;
+        left:50%;
+        margin-left:0.3em;
+        transform:translate(-50%,-50%);
+        -webkit-transform:translate(-50%,-50%);
+        -moz-transform:translate(-50%,-50%);
+        padding-left: 15px;
+        padding-top: 1em;
+        padding-bottom: 1em;
+        font-weight: 400;
+    } 
+    .promodrawer_cont3 .discountHeader {
+        font-size:1.3em;
+        line-height: 1;
+        padding-bottom: 0.5em;
+    }
+    .promodrawer_cont3 .mainMessage {
+        font-size:32px;
+        line-height:1;
+        text-transform: uppercase;
+    }
+    .promodrawer_cont3 .discountCode {
+        font-size:1.3em;
+        line-height: 1;
+        padding-top: 0.5em;
+        letter-spacing: 0.4px;
+    }
+     .promodrawer_cont3 .subCopy {
+        font-size:1.6em;
+        line-height:1;
+        padding-top: 0.7em;
+    }
+@media (max-width: 767px) {
+     .promodrawer_cont3 .mainMessage {
+         font-size:2.5em;
+    }
+}
+</style>
+
+<div class="promodrawer_cont3 sds_tx_left">
+    <div class="promodrawer_cont3_wrapper"> 
+        <div class="discountHeader">IN STORES ONLY</div>
+        <div class="mainMessage">EXTRA 15% OFF </div>
+        <div class="mainMessage">ALL MARK DOWNS</div>
+        <div class="subCopy">(Already up to 70% off)</div>
+        <div class="discountCode">Discount taken at register. </div>
+    </div>
+</div>
+
+

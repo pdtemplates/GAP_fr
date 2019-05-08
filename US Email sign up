@@ -1,0 +1,63 @@
+<div class="pd_promo-email">
+	<style type="text/css">
+		.pd_promo-email {
+			background-color: #000c42;
+			color: #fff;
+			height: 100%;
+			font-family: Helvetica, Arial, sans-serif;
+		}
+		.pd_promo-email .wrapper {
+			position: relative;
+			height: 100%;
+			padding: 15px 15px 0px 15px;
+		}
+		.pd_promo-email .title {
+			font-size: 2.1em;
+			font-weight: 600;
+			color: #8fafd9;
+		}
+		.pd_promo-email .subtitle {
+			font-size: 1.2em;
+			letter-spacing: 0;
+			line-height: 1em;
+			color: #8fafd9;
+		}
+		.pd_promo-email .head1 {color: #8fafd9;
+			color: #fff;
+			font-size: 1.2em;
+			font-weight: 300;
+			padding-top: 5px;
+			margin-toP: 5px;
+		}
+		.pd_promo-email .head2 {color: #8fafd9;
+			color: #fff;
+			font-size: 2.1em;
+			font-weight: 600;
+		}
+		.pd_promo-email .cta {
+			font-weight: 600;
+			font-size: 1.3em;
+			line-height: 2em;
+		}
+		.pd_promo-email .cta a {
+			color: #fff;
+			padding-right: 10px;
+			background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAMCAYAAACulacQAAAATUlEQVR42mP4////PyBeBsSiDOgAKgkCi/FJ/v/3798VnJJQcBCIBXFJgsA2sAIckiBwG5/kLVySW3EZewiXg67i8soSXIGwBIh50OUAZjnmVvqB+ZQAAAAASUVORK5CYII=') no-repeat right;
+			background-size: 4px 8px;
+		}
+		.pd_promo-email-legal {
+			text-decoration: none !important;
+			text-transform: none !important;
+			font-weight: normal;
+			font-size: 1.1em;
+		}
+	</style>
+	<div class="wrapper">
+		<div class="title">Join Our Email List</div>
+		<div class="subtitle">Hear about new arrivals, exclusive savings,<br/> and more.</div>
+		<div class="head1">Plus, get</div>
+		<div class="head2">25% off reg. price styles</div>
+		<div class="cta"><a href="/profile/info.do?cid=1000698">SIGN UP NOW</a></div>
+	</div>
+</div>
+<!-- <span class="pd_promo-email-legal">Offer valid for first-time <br> registrants only.</span> //->

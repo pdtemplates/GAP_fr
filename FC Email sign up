@@ -1,0 +1,69 @@
+<div class="pd_promo-email">
+	<style type="text/css">
+		.pd_promo-email {
+			background-color: #000c42;
+			color: #fff;
+			height: 100%;
+			font-size: 9px;
+			font-family: Helvetica, Arial, sans-serif;
+		}
+		.pd_promo-email .wrapper {
+			position: relative;
+			height: 100%;
+			padding: 10px 15px 0px 15px;
+		}
+		.pd_promo-email .title {
+			font-size: 1.8em;
+			font-weight: 600;
+			line-height: .9em;
+			color: #8fafd9;
+		}
+		.pd_promo-email .subtitle {
+			font-size: 1.2em;
+			line-height: .9;
+			color: #8fafd9;
+		}
+		.pd_promo-email .head1 {
+			color: #fff;
+			font-size: 1.2em;
+			font-weight: 300;
+			padding-top: 5px;
+			margin-toP: 5px;
+		}
+		.pd_promo-email .head2 {
+			color: #fff;
+			font-size: 1.8em;
+			font-weight: 600;
+			line-height:0.8;
+		}
+		.pd_promo-email .cta {
+			font-weight: 600;
+			font-size: 1.3em;
+			line-height: 2em;
+		}
+		.pd_promo-email .cta a {
+			color: #fff;
+			padding-right: 10px;
+			background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAMCAYAAACulacQAAAATUlEQVR42mP4////PyBeBsSiDOgAKgkCi/FJ/v/3798VnJJQcBCIBXFJgsA2sAIckiBwG5/kLVySW3EZewiXg67i8soSXIGwBIh50OUAZjnmVvqB+ZQAAAAASUVORK5CYII=') no-repeat right;
+			background-size: 4px 8px;
+		}
+		.pd_promo-email .cta a span {
+			font-size: 0.7em;
+		}
+		.pd_promo-email-legal {
+			text-decoration: none !important;
+			text-transform: none !important;
+			font-weight: normal;
+			font-size: 1.1em;
+			line-height: 1em;
+		}
+	</style>
+	<div class="wrapper">
+		<div class="title">Abonnez-vous à notre liste de courriel</div>
+		<div class="subtitle">Recevoir les informations sur les nouveautés, économies en exclusivité et plus.</div>
+		<div class="head1">De plus, obtenez un rabais de</div>
+		<div class="head2">30 % sur les modèles à prix courant</div>
+		<div class="cta"><a href="/profile/info.do?cid=1000698">S'INSCRIRE MAINTENANT</a></div>
+	</div>
+</div>
+<!-- <span class="pd_promo-email-legal">Offre réservée personnes s'inscrivant pour la première fois.</span> //-->

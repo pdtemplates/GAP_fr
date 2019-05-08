@@ -1,0 +1,63 @@
+<style>
+    .promodrawer_cont4 {
+        width:100%;
+        height:100%;
+        background-color:#122344;
+        color:#FFFFFF;
+        font-family: Helvetica,Arial,Roboto,sans-serif;
+        position:relative;
+    }
+    .promodrawer_cont4_wrapper { 
+        width:98%;
+        position:absolute;
+        top:50%;
+        left:50%;
+        margin-left:0.3em;
+        transform:translate(-50%,-50%);
+        -webkit-transform:translate(-50%,-50%);
+        -moz-transform:translate(-50%,-50%);
+        padding-left: 15px;
+        padding-top: 1em;
+        padding-bottom: 1em;
+        font-weight: 400;
+    }
+    .promodrawer_cont4 .discountHeader {
+        font-size:1.3em;
+        line-height: 1;
+        padding-bottom: 0.5em;
+    }
+    .promodrawer_cont4 .mainMessage {
+        font-size:32px;
+        line-height:1;
+        text-transform: uppercase;
+    } 
+    .promodrawer_cont4 .discountCode {
+        font-size:1.3em;
+        line-height: 1;
+        padding-top: 0.5em;
+        letter-spacing: 0.4px;
+    }
+    .promodrawer_cont4 .legalLine {
+        font-size:1.3em;
+        line-height: 1;
+        padding-top: 0.2em;
+        letter-spacing: 0.4px;
+    }
+@media (max-width: 767px) {
+     .promodrawer_cont4 .mainMessage {
+         font-size:2.5em;
+    }
+}
+</style>
+
+<div class="promodrawer_cont4 sds_tx_left">
+    <div class="promodrawer_cont4_wrapper"> 
+        <div class="discountHeader">ONE DAY ONLY | IN STORES ONLY</div>
+        <div class="mainMessage">UP TP 50% OFF </div>
+        <div class="mainMessage">STOREWIDE</div>
+        <div class="discountCode">Code XXXXXX </div>
+        <div class="legalLine">Excludes GapBody. Other exclusions apply.</div>
+    </div>
+</div>
+
+

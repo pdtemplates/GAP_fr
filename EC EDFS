@@ -1,0 +1,50 @@
+<div class="pd_promo-ship">
+	<style type="text/css">
+		.pd_promo-ship {
+			background-color:#ccc;
+			color: #fff;
+			height: 100%;
+			
+			font-family: Helvetica, Arial, sans-serif;
+			box-sizing: border-box;
+			padding: 10px;
+		}
+		.pd_promo-ship a {
+			color: #fff;
+		}
+		.pd_promo-ship .outer {
+			height: 100%;
+			border: solid 1px #fff;
+		}
+		.pd_promo-ship .wrapper {
+			position: relative;
+			top: 50%;
+			transform: translateY(-50%);
+			text-align: center;
+			margin-top: -5px;
+		}
+		.pd_promo-ship .title {
+			letter-spacing:0;
+			font-size: 2.3em;
+			font-weight: 600;
+		}
+		.pd_promo-ship .subtitle {
+			font-size: 1.5em;
+			font-weight: 600;
+			letter-spacing: 0;
+			color: #666
+		}
+		.universal-modal--backdrop {
+			z-index: 10000004;
+		}
+	</style>
+	<a href="#edfs">
+		<div class="outer">
+			<div class="wrapper">
+				<div class="icon"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAYAAABe3VzdAAACaUlEQVR42u2Xz0tUURTHHS0sIaFN2cYWmi6qjYvARbqxRboSHEJwkfgnmLSKadGmiGiVC3ciKINSEIwLhRHFQXBCpfJHo7VQacbpDTPz5vcv+hxw4DGMw/xkXjEXvtwf795zv/ecc889r66uVmqlVvIriqI0J5PJefAzkUgclhPI3I1Go0MlEYzH49MIGa3g4R12u72pFILuSloITY6VpEUEnFWaYCwWex4IBO6n4ff7O3VFEBxj6jdpYLVJxo5cLtdNvWhwLYtr9YE9q9V6RTcEqbvC4XCvz+drlz6+OYxGN3RDEDKnYAbNfYtEIoPnmnwBZk0mU33VCUJkW+pgMHiL9nfqLrPZ3MCcj8wZ55OhqgRpn6DBSQHtRWCXcSEpQR2tPqoqQafTecPj8bSm4Xa7r2XMPdHNLc7b3WoE/3uCEpsqTPAZmCuaIPHoJXjLFe/wer1t5QSvRg+b/lFV9W7RBCUGQfB1KpU6pT6m3s8GFv8CBxd9zwbkfQGP03uRF142Go0NRb1qvIsj+MrTzHGbzXaV8U+4QggBCtH/QaFmlmcMou9YH6BW2evJBbnp71xyDJxaEdNkLNqSd9PhcDSCZvo/QqFQd6FZOwd8JTIku6a9LJdHuzdKmAcTOQWRZdxh0oKQkndT0iFI72rnQHaA8bPz7/ngq2hOzKuR0S6a1MzZEMKkXpcKMg2muMfiHe2YOD4a+JCvDCxync1V7eZk1S3IWC05REgyKVkHpB5K32KxNKLRFTTQX4AYAwSXNP5dT39KfgPKEsd41G9z2nWIbiJYbvN4MQdFxmdxHclaqN/nus3/RPkLa2qJxaou7d8AAAAASUVORK5CYII="></div>
+				<div class="title">SHIPPING IS ON US!</div>
+				<div class="subtitle">FREE on orders of $50 or more.</div>
+			</div>
+		</div>
+	</a>
+</div>
